@@ -10,7 +10,7 @@
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "price": 29.99
     },
     {
       "id": 3,
@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Burro tail",
+      "image": "https://interiorplants.ca/wp-content/uploads/2019/10/burro-tail-5in-in-white.png",
+      "price": "25.99",
+      "id": 8
+    },
+    {
+      "name": "Peace Lily",
+      "image": "https://i.etsystatic.com/15265690/r/il/9c7e6c/1211862072/il_fullxfull.1211862072_3kuo.jpg",
+      "price": 19.99,
+      "id": 9
+    },
+    {
+      "name": "something new",
+      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
+      "price": "15.00",
+      "id": 10
     }
   ]
 }
